@@ -9,4 +9,4 @@ HOW TO RUN THE FILES
 
 3.Open the .ipymb file in Jupyter Notebook
 
-4.Upload the .xlxs file in Jupyter Notebook
+4.Upload the .xlsx file in Jupyter Notebook
