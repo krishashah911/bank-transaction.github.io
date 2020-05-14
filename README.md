@@ -7,6 +7,6 @@ HOW TO RUN THE FILES
 
 2.Download Jupyter Notebook
 
-3.Open the .ipymb file in Jupyter Notebook
+3.Open the .ipynb file in Jupyter Notebook
 
 4.Upload the .xlsx file in Jupyter Notebook
